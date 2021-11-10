@@ -19,5 +19,11 @@
   "homepage": "https://github.com/shtormlbt/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "prettier": "^2.4.1"
   }
 }
